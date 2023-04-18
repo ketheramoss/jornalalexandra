@@ -1,19 +1,19 @@
 .cabeçalho {
     background-color: rgb(31, 9, 155);
 }
-.cabeçalho-título1 {
+cabeçalho-título1 {
     color: rgb(252, 255, 72);
 }
-.cabeçalho-título2 {
+cabeçalho-título2 {
     color: rgb(243, 230, 47);
 }
-.p {
+p {
     color: rgb(38, 248, 18);
 }
-.Página-Principal {
+Página-Principal {
     color: aliceblue;
 }
-.Quem-Somos {
+Quem-Somos {
     color: aliceblue;
 
 }

@@ -1,10 +1,10 @@
 .cabeçalho {
     background-color: rgb(31, 9, 155);
 }
-cabeçalho-título1 {
+.cabeçalho-título1 {
     color: rgb(252, 255, 72);
 }
-cabeçalho-título2 {
+.cabeçalho-título2 {
     color: rgb(243, 230, 47);
 }
 p {
